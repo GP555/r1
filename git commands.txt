@@ -1,0 +1,8 @@
+git init => inicializa o git.
+git status => mostra commits.
+git add => adiciona novo arquivo ou pasta no git para observação(committed).
+git commit => vem acompanhado de "-m", serve para adicionar uma mensagem explicando alguma mudança.
+git config --global --edit => abre as informações sobre o autor do arquivo ou pasta.
+git config --global user.name => mostra o nome do autor.
+git config --global user.email => mostra o email do autor.
+git log => mostra as ultimas atualizações.

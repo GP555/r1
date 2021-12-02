@@ -1,2 +1,4 @@
 A Sample Text!
 ... or a commit!
+
+...and another text!

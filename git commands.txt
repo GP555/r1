@@ -6,3 +6,7 @@ git config --global --edit => abre as informações sobre o autor do arquivo ou 
 git config --global user.name => mostra o nome do autor.
 git config --global user.email => mostra o email do autor.
 git log => mostra as ultimas atualizações.
+git add . => adiciona todos os arquivos.
+git restore <file>... => descarta mudanças no diretório.
+git branch -m => muda nome do diretório.
+git checkout -b <name> => define um novo diretório.

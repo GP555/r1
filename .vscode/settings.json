@@ -3,5 +3,8 @@
   "editor.fontFamily": "consolas",
   "editor.cursorStyle": "block",
   "editor.cursorBlinking": "smooth",
-  "editor.cursorSmoothCaretAnimation": true
+  "editor.cursorSmoothCaretAnimation": true,
+  "files.participants.timeout": 0,
+  "diffEditor.codeLens": true,
+  "editor.codeLensFontFamily": "monospace"
 }
